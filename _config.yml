@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "SG_work"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "SG"
 description              : "An amazing website."
 url                      : "https://sgnote.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
